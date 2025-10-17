@@ -8,8 +8,8 @@ compatibility_flags = [ "nodejs_compat" ]
 enabled = true
 
 [vars]
-EMAIL_WORKER_ADDRESS = "my-email-worker@jldec.fun"
-EMAIL_FORWARD_ADDRESS = "jurgen@jldec.me"
+EMAIL_WORKER_ADDRESS = "hello@kimptoncalls.com.au"
+EMAIL_FORWARD_ADDRESS = "eddie@kimpton-tech.com"
 
 [[send_email]]
 name = "SEND_EMAIL"
